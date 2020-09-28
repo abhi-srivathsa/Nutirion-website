@@ -5,9 +5,9 @@
 */
 
 (function($) {
-    $(document).ready(function(){
-      $(".owl-carousel").owlCarousel();
-    });
+	$(document).ready(function(){
+  	$('.owl-carousel').owlCarousel();
+	});
 	var	$window = $(window),
 		$body = $('body'),
 		$main = $('#main');
