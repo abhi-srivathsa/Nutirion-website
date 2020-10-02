@@ -29,6 +29,25 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+
+.testimonial_pic{
+height: 200px;
+  border-radius: 100%;
+}
+
+.customer_name{
+font-family: 'Sacramento', cursive;
+font-size: 40px;
+
+}
+
+.image_stars{
+height:300px;
+border-size:10px;
+border:pink;
+
+}
+
 body {
 	line-height: 1;
 }
